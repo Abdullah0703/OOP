@@ -1,2 +1,1 @@
-# OOP
-just chill
+OOP lab assignments QnA
